@@ -9,7 +9,7 @@ Key Specifications & Features
 - Provide the option to view and apply discounts.
 - Incorporate a lucky spin feature for potential discounts.
 - Enable users to search for items using names or IDs.
-- 
+  
 Major Deliverables
 - User interface for browsing products and categories.
 - Functionality for managing the shopping cart.
